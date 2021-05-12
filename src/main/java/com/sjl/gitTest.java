@@ -9,5 +9,6 @@ public class gitTest {
         System.out.println("hot-fit");
         System.out.println("master");
         System.out.println("github push!");
+        System.out.println("github pull!");
     }
 }
