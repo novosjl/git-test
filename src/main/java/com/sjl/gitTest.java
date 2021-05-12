@@ -6,5 +6,7 @@ public class gitTest {
         System.out.println("git---");
         System.out.println("git___git--");
         System.out.println("master");
+        System.out.println("hot-fit");
+        System.out.println("master");
     }
 }
